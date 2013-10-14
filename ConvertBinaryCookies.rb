@@ -1,4 +1,3 @@
-require 'rubygems'
 require 'stringio'
 
 if ARGV.length != 1
